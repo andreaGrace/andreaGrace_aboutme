@@ -1,0 +1,42 @@
+body {
+background-color: rgba(255, 255, 255);
+
+}
+
+
+a:hover{
+
+    background-color: #f1f1f1;
+    text-decoration: none;
+    
+}
+
+.boxed {
+  
+  height: 100px;
+  width: 310px;
+  padding: 50px;
+
+} 
+
+
+.icon-bar {
+     margin: -25px;
+    width: 102%; 
+    height:8.5%;
+    background-color: black; 
+    overflow: auto; 
+}
+
+.icon-bar a {
+    float: left; 
+    text-align: center; 
+    width: 25%; 
+ 
+    transition: all 0.3s ease; 
+    color: black; 
+}
+
+.icon-bar a:hover {
+    background-color: #000; 
+}

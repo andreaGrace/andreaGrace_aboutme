@@ -1,0 +1,46 @@
+a:hover{
+
+    background-color: #353232;
+    text-decoration: none;
+}
+
+.icon-bar {
+    margin: -8px;
+    width: 102%; 
+    height:4.5%;
+    background-color: black; 
+    overflow: auto; 
+}
+
+.icon-bar a {
+    float: right; 
+    text-align: center; 
+    width: 10%; 
+ 
+    transition: all 0.3s ease; 
+    color: black; 
+}
+
+.centerstuff {
+    padding: 100px;
+    margin: 15px;
+}
+
+body {
+
+    background-image: url("yes.jpg");
+    background-repeat: no-repeat;
+    background-size:1450px;
+    height:1350px; 
+
+}
+
+p{
+    position: absolute;
+    color: white;
+}
+
+.myname{
+
+    margin:15px;
+}
